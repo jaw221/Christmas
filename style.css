@@ -1,0 +1,38 @@
+body {
+  background-color: #ddf7e3;
+}
+.Christmas {
+  font-family: alex brush, cursive;
+  margin-top: 150px;
+  margin-left: 25px;
+  border: solid;
+  border-color: #afc8ad;
+  padding: 10px;
+  text-align: center;
+  margin-right: 25px;
+  color: #cd8d7a;
+}
+#Top {
+  font-size: 30px;
+}
+.Paragraph {
+  font-size: 22px;
+  font-family: alex brush, Cursive;
+  text-align: center;
+  color: #f7a4a4;
+  border-bottom: solid;
+  border-color: #f8c4b4;
+}
+#heart {
+  margin-left: 10px;
+  width: 20px;
+  margin-bottom: 0px;
+}
+#Gato {
+  font-family: alex brush, Cursive;
+  font-size: 25px;
+  color: #e78ea9;
+}
+.kitties {
+  margin-left: 25%;
+}
